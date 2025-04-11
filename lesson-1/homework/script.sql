@@ -89,6 +89,7 @@ COMMIT;
 INSERT INTO [dbo].[Students] VALUES (1, 'Jon Snow', 25), (2, 'Arya Stark', 12), (3, 'Tirion Lannister', 30);
 
 --9    
+
 To create a backup:
 - In the Object Explorer panel, right-click on the database name (SchoolDB)
 - Go to Task, then Back up...
