@@ -53,7 +53,7 @@ CREATE TABLE Categories (
 	CategoryName VARCHAR(50) UNIQUE
 );
 
--9 Explain the purpose of the IDENTITY command in SQL Server.
+--9 Explain the purpose of the IDENTITY command in SQL Server.
 The IDENTITY command is used to automatically generate unique numeric values for each row in a table.
 
 --10 Use BULK INSERT to import data from a text file into the Products table.
