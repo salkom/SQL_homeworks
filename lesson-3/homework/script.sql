@@ -1,6 +1,3 @@
-
-
-
 --1 Define and explain the purpose of BULK INSERT in SQL Server.
 BULK INSERT is a SQL Server command used to import large volumes of data from a file (like .csv or .txt) directly into a table. Its purpose is to efficiently load external data into a SQL Server table, especially useful for big datasets or ETL operations.
 
